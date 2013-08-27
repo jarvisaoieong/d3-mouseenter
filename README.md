@@ -2,7 +2,7 @@
 
 > d3 mouseenter and mouseleave event support
 
-## Getting Started
+## Notice
 
 Thanks shawnbot's [d3-compat.js gist](https://gist.github.com/shawnbot/4166283).  
 This script make d3 support mouseenter and mouseleave event.  
