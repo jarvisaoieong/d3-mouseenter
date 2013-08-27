@@ -1,0 +1,21 @@
+{
+  "name": "d3-mouseenter",
+  "version": "0.0.0",
+  "description": "d3 mouseenter and mouseleave event support",
+  "author": {
+    "name": "Jarvis Ao Ieong",
+    "email": "kinua1230@gmail.com"
+  },
+  "main": "d3-mouseenter.js",
+  "homepage": "https://github.com/kinua/d3-mouseenter",
+  "bugs": "https://github.com/kinua/d3-mouseenter/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kinua/d3-mouseenter.git"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  }
+}
+
